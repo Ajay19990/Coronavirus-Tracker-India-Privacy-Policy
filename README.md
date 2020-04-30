@@ -1,2 +1,2 @@
 # Covid-19-PrivacyPolicy
-Privacy Policy for Covid-19 Tracker App
+Privacy Policy for Coronavirus Tracker India App
