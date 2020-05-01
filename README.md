@@ -1,2 +1,2 @@
-# Keep-Sake-PrivacyPolicy
-Privacy Policy for Keep-Sake App
+# Prompt-Todo-PrivacyPolicy
+Privacy Policy for Prompt-Todo App
