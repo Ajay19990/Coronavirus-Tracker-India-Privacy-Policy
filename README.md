@@ -1,2 +1,2 @@
-# Coronavirus-Tracker-India-PrivacyPolicy
-Privacy Policy for Coronavirus Tracker India App
+# Keep-Sake-PrivacyPolicy
+Privacy Policy for Keep-Sake App
